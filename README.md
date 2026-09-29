@@ -11,7 +11,7 @@ HTML/JS top-down shooter. Can be run without dependencies — no image or audio 
 
 ## Maps
 
-Four maps: WAREHOUSE, CORRIDOR, CROSSROADS, BUNKER. Each defines its own walls, player spawn, enemy spawns, patrol points, and sweep targets. Map mode is either fixed (pick one) or random (reroll on reset).
+Three maps: WAREHOUSE, CROSSROADS, BUNKER. Each defines its own walls, player spawn, enemy spawns, patrol points, and sweep targets. Map mode is either fixed (pick one) or random (reroll on reset).
 
 ## Enemy AI
 
